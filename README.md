@@ -9,12 +9,13 @@ ___
 
 Apaixonado pelo potencial transformador da tecnologia na vida das pessoas, e foi esse o motivador para a minha transição de carreira, da área de Ciências Contábeis para a Analise e Desenvolvimento de Sistemas.
 
-Desenvolvedor de Software Back-end em formação, já acumulando experiência em Javascript, Node.js, Git e API Rest. Estudando SQL e Typescript.
+Desenvolvedor de Software FullStack em formaçãopela Cubos Academy, já acumulando experiência em Javascript, Node.js, Git e API Rest. Estudando SQL, Typescript, FIGMA, HTML5, CSS3 e React.
 
-Tenho interesse em atuar como Desenvolvedor de Software Back-end, procurando minha primeira oportunidade como Junior.
+Tenho interesse em atuar como Desenvolvedor de Software FullStack, procurando minha primeira oportunidade como Desenvolvedor Junior.
 ___
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanslacerda&show_icons=true&theme=radical)
+
 ___
 
 ### Tech Skills
@@ -32,5 +33,8 @@ ___
 </br>
 <div>
     <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="TERMINAL" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+    <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
