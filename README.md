@@ -43,4 +43,4 @@ ___
 
 ### Main Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathaslacerda&repo=Internet-Banking)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanslacerda&repo=Internet-Banking)](https://github.com/jonathanslacerda/Internet-Banking)
