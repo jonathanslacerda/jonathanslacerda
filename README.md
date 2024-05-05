@@ -38,3 +38,9 @@ ___
     <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+
+___
+
+### Main Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathaslacerda&repo=Internet-Banking)](https://github.com/anuraghazra/github-readme-stats)
