@@ -40,3 +40,4 @@ ___
 ### Main Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanslacerda&repo=Internet-Banking)](https://github.com/jonathanslacerda/Internet-Banking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanslacerda&repo=Internet-Banking)](https://github.com/jonathanslacerda/PDV-Ponto-de-Venda)
