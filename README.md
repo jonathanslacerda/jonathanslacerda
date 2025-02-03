@@ -7,11 +7,7 @@
 
 ___
 
-Apaixonado pelo potencial transformador da tecnologia na vida das pessoas, e foi esse o motivador para a minha transição de carreira, da área de Ciências Contábeis para a Analise e Desenvolvimento de Sistemas.
-
-Desenvolvedor de Software Back-end formado pela Cubos Academy, com experiência em Javascript, Node.js, PostgreSQL, Typescript, API Restuful e GIT. Com a formação em Java em andamento.
-
-Tenho interesse em atuar como Desenvolvedor de Software Backend, procurando minha primeira oportunidade como Desenvolvedor Junior.
+Desenvolvedor back-end junior com 1 ano de experiência. Formado em análise e desenvolvimento de sistemas e cursando pós em gerenciamento de dados pela UNISUAM, formado em desenvolvimento de software pela Cubos Academy, com proficiência em Javascript, node.js, TypeScript, Express, API RESTful, PostgreSQL, GIT, C#, .NET, teste unitários, Kanban, Scrum, CI/CD, deploy, autenticação e criptografia. 
 ___
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanslacerda&show_icons=true&theme=radical)
